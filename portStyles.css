@@ -1,0 +1,76 @@
+.bgimage {
+    height:100vh;
+    background: url('img1.jpg');
+    background-size:cover;
+    position:relative;
+}
+.bg{
+    background-color: rgb(38, 37, 37);
+    margin-top: 50px;
+}
+.abg{
+    background: url('a.png');
+    background-size:cover;
+    position:relative;
+    height: 200px;
+}
+.s{
+    color: white;
+    font-size: large;
+}
+.s1{
+    color: white;
+    font-size: 20px;
+    font-weight: bold;
+    font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
+}
+.c1 {
+    font-size: 4.5rem;
+}
+.c2 {
+    font-size: 2rem;
+}
+.c0 {
+    text-align: center;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    color: white;
+}
+
+.c3 {
+    width: 100%;
+}
+
+
+.a5{
+    font-size: 60px;
+    text-align: center;
+    width: 100%;
+    color: white;
+}
+
+.navbarDark{
+    background-color: black;
+}
+
+.c6{
+    font-size: 50px;
+    text-align: center;
+    width: 100%;
+}
+
+.cl{
+    color: white;
+    font-size: 40px;
+}
+.pos{
+    position: sticky;
+    top:0px;
+    z-index: 1000;
+}
+input{
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
